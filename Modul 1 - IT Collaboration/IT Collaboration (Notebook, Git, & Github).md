@@ -104,7 +104,8 @@ Steps:
     ![Alt text](image-1.png)
 2)	Kalo sudah diisi nama repository nya lalu create repository. Maka akan muncul seperti gambar dibawah ini
 ![Alt text](image-2.png)
-Kemudian setelah dibuat di github respository nya lalu kembali lagi ke visual studio code. 
+
+    Kemudian setelah dibuat di github respository nya lalu kembali lagi ke visual studio code. 
 
     Kemudian buat repository di git dengan memasukan perintah : 
 
