@@ -124,3 +124,23 @@ Steps:
     Perintah diatas sebagai commit yang pertama. Untuk penambahan commit harus diperhatikan karena akan menjadi history setiap perubahan. 
     
     Selanjutnya yaitu : 
+
+    git remote add origin "isi link dari github kalian"
+
+    Perintah diatas yaitu perintah untuk dapat menghubungkan dari repository lokal ke repository central yaitu github. 
+    
+    Ketika kita akan banyak melakukan perubahan kita bisa membuat branch lain agar tidak langsung merubah di master/main nya. 
+    
+    Perintah untuk membuat branch baru yaitu :
+
+    git branch <name> 
+    atau 
+    git checkout -b <nama branch lain> #untuk menambah branch
+    
+    Yang terkahir yaitu :
+
+    git push origin "nama branch"
+
+    
+    Perintah ini yang akan memasukan program yang telah dibuat dan tersimpan di git repository lokal ke repository central yaitu github dan bisa diakses oeh developer yang lain. Tunggu hingga proses pengiriman file berhasil dan 100% terkirim semuanya.
+
