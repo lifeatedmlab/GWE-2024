@@ -56,20 +56,29 @@ Berikut adalah beberapa contohnya:
 - ### Reading a text file
 
   with open('/content/drive/My Drive/example.txt', 'r') as f:
+    
   text = f.read()
+    
   print(text)
+
 
 - ### Reading a CSV file
 
   import pandas as pd
-  data = pd.read_csv('/content/drive/My Drive/my_data/data.csv')
+
+  data = pd.read_csv('/content/drive/My Drive/my_data/data.
+  csv')
+
   print(data.head())
 
 - ### Reading an image file
 
   from PIL import Image
+
   import matplotlib.pyplot as plt
+
   image = Image.open('/content/drive/MyDrive/saturn-cloud-saturn-cloud.png')
+  
   plt.imshow(image)
 
 - ### Reading data from kaggle (Additional)
