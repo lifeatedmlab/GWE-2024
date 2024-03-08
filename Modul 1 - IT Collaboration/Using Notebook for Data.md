@@ -82,3 +82,5 @@ Berikut adalah beberapa contohnya:
   4. Download dataset dengan mencari nama dari dataset pada kaggle
 
      [Untuk detail dan lebih jelas klik disini](https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/)
+
+coba deh ini conflict ga
