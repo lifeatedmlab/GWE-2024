@@ -30,15 +30,14 @@ Steps:
     Setelah menginstall git selanjutnya kita lakukan config terlebih dahulu. Kenapa kita memerlukan config pada git?  
     karena Git akan selalu menggunakan informasi tersebut untuk apapun yang Anda lakukan pada sistem tersebut.
 
-        Berikut untuk perintahnya:
+    Berikut untuk perintahnya:
 
-        ````md
-        git config --global user.name "nama lengkap"
+    ````md
+    git config --global user.name "nama lengkap"
+    git config --global user.email "emailkamu@example.com"
+    ````
 
-        git config --global user.email "emailkamu@example.com"
-        ````
-
-        Perintah di atas bermaksud agar Git dapat terhubung dengan akun 				Github yang telah kalian buat, agar nantinya dapat diupload ke 				repository yang telah kalian buat di akun Github kalian tadi.
+    Perintah di atas bermaksud agar Git dapat terhubung dengan akun 				Github yang telah kalian buat, agar nantinya dapat diupload ke 				repository yang telah kalian buat di akun Github kalian tadi.
 
 <br>
 
