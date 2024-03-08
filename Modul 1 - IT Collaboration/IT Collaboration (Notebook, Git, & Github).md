@@ -107,29 +107,31 @@ Steps:
 
     Kemudian setelah dibuat di github respository nya lalu kembali lagi ke visual studio code. 
 
-    Kemudian buat repository di git dengan memasukan perintah : 
+3) Kemudian buat repository di git dengan memasukan perintah : 
 
     git init
 
     Perintah ini akan membuat repository dengan nama git dan akan tersembunyi file nya. Yang harus diperhatikan yaitu apabila sudah pernah membuat git di folder tersebut maka tidak bisa lagi membuat git karena akan saling menimpa dan akan konflik. 
     
-    Lalu perintah selanjutnya yaitu :
+4) Lalu perintah selanjutnya yaitu :
     
     git add .
 
-    Perintah ini merupakan perintah yang akan menambah file ke github. Selanjutnya yaitu :
+    Perintah ini merupakan perintah yang akan menambah file ke github. 
+    
+5) Selanjutnya yaitu :
 
     git commit -m "initialization commit"
     
     Perintah diatas sebagai commit yang pertama. Untuk penambahan commit harus diperhatikan karena akan menjadi history setiap perubahan. 
     
-    Selanjutnya yaitu : 
+6) Selanjutnya yaitu : 
 
     git remote add origin "isi link dari github kalian"
 
     Perintah diatas yaitu perintah untuk dapat menghubungkan dari repository lokal ke repository central yaitu github. 
     
-    Ketika kita akan banyak melakukan perubahan kita bisa membuat branch lain agar tidak langsung merubah di master/main nya. 
+7)  Ketika kita akan banyak melakukan perubahan kita bisa   membuat branch lain agar tidak langsung merubah di master/main nya. 
     
     Perintah untuk membuat branch baru yaitu :
 
@@ -137,7 +139,7 @@ Steps:
     atau 
     git checkout -b <nama branch lain> #untuk menambah branch
     
-    Yang terkahir yaitu :
+8)  Yang terkahir yaitu :
 
     git push origin "nama branch"
 
