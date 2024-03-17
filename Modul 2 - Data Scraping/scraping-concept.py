@@ -4,7 +4,7 @@ from datetime import date, datetime
 import csv
 
 # link html web yang mau di scrap
-title = 'dune-part-two'
+title = ''
 url = 'https://letterboxd.com/film/{}/reviews/page/'.format(title)
 
 # headers supaya web tidak mendeteksi kita sebagai bot tetapi sebagai browser
