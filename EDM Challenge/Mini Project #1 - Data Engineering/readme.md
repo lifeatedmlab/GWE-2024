@@ -2,7 +2,7 @@
 
 **Apa yang harus dilakukan?**
 Yeay selamat sudah masuk ke mini project 1, yuk terapin yang sudah dipelajarin kemarin.
-1. Pilih salah satu website ini untuk dilakukan scraping ('https://books.toscrape.com/' atau ''https://quotes.toscrape.com/) 
+1. Pilih salah satu website ini untuk dilakukan scraping (https://books.toscrape.com/ atau https://quotes.toscrape.com/) 
 2. Ketentuan Data 
    Jika memilih **website daftar buku** ambil data: 
    - Judul Buku 
