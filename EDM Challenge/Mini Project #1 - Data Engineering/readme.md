@@ -2,14 +2,22 @@
 
 **Apa yang harus dilakukan?**
 Yeay selamat sudah masuk ke mini project 1, yuk terapin yang sudah dipelajarin kemarin.
-1. Tentukan ide rencana project pada EDM Challenge (boleh berubah nantinya)
-2. Tentukan data yang diperlukan
-3. Sertakan minimal 1 data yang dapat diperoleh dari hasil scraping di website tertentu. 
-4. Kirimkan code scraping beserta hasilnya berformat csv pada repo masing-masing
-5. Tuliskan penjelasan pada readme dan kira-kira dimana kalian akan menyimpan datanya dan kenapa (sesuai materi GWE #3)
+1. Pilih salah satu website ini untuk dilakukan scraping ('https://books.toscrape.com/' atau ''https://quotes.toscrape.com/) 
+2. Jika memilih **website daftar buku** ambil data: 
+   - Judul Buku 
+   - Harga Buku
+   - Rating
+   - Gambar buku
+  <br>
+  Jika memilih **website quotes list** ambil data:
+   - Isi quotes 
+   - Author Quotes
+   - Semua tags nya
+3. Kirimkan data hasil scraping pada format .csv, db.sqlite, firebase atau format lainnya yang dapat kami akses.
+4. Push hasil scraping dan code scraping pada Github
 
 **Deadline**
-18 April 2024
+10 Mei 2024
 
 **Submission Form**
 TBA
