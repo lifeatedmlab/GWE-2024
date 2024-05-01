@@ -3,16 +3,18 @@
 **Apa yang harus dilakukan?**
 Yeay selamat sudah masuk ke mini project 1, yuk terapin yang sudah dipelajarin kemarin.
 1. Pilih salah satu website ini untuk dilakukan scraping ('https://books.toscrape.com/' atau ''https://quotes.toscrape.com/) 
-2. Jika memilih **website daftar buku** ambil data: 
+2. Ketentuan Data 
+   Jika memilih **website daftar buku** ambil data: 
    - Judul Buku 
    - Harga Buku
    - Rating
    - Gambar buku
-  <br>
-  Jika memilih **website quotes list** ambil data:
+
+   Jika memilih **website quotes list** ambil data:
    - Isi quotes 
    - Author Quotes
    - Semua tags nya
+
 3. Kirimkan data hasil scraping pada format .csv, db.sqlite, firebase atau format lainnya yang dapat kami akses.
 4. Push hasil scraping dan code scraping pada Github
 
