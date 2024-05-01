@@ -6,7 +6,7 @@
 >- **Participants are hope to develop an innovation for a growth community through the usage of data.**
 
 Look at the example here:
-[Project Repository Example](repo-example)
+[Project Repository Example](https://github.com/lifeatedmlab/GWE-2024/tree/main/EDM%20Challenge/(repo-example)%20EDM%20Challenge%20-%20Team%201)
 
 ---
 
