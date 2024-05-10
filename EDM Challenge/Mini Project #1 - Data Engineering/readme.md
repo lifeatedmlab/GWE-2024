@@ -22,4 +22,4 @@ Yeay selamat sudah masuk ke mini project 1, yuk terapin yang sudah dipelajarin k
 10 Mei 2024
 
 **Submission Form**
-TBA
+https://forms.gle/ahmX5rcaT5wb95Mg6
